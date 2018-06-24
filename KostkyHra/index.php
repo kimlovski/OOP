@@ -16,6 +16,7 @@
 		echo $kostka->getCislo();
 		echo $kostka->getPocetSten(); */
 		////GITUPDATE////
+		///V2////
 	?>
 </body>
 </html>
