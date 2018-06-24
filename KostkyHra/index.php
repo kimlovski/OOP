@@ -15,6 +15,7 @@
 		$kostka->hodKostkou();
 		echo $kostka->getCislo();
 		echo $kostka->getPocetSten(); */
+		////GITUPDATE////
 	?>
 </body>
 </html>
