@@ -16,7 +16,7 @@
 		echo $kostka->getCislo();
 		echo $kostka->getPocetSten(); */
 		//si to tady programju.. update v2
-		//dalsi update cmon
+		//dalsi update cmon :)
 	?>
 </body>
 </html>
